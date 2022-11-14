@@ -1,0 +1,10 @@
+local p = "idk"
+local g = game
+lcoal sex = "sex"
+local pl = g.PLayers
+local have_a_sex = nil
+local LcP = pl.LocalPlayer
+function idkMaybeASex()
+  LcP:Kick("BRO DID YOU READ IT?")
+end
+idkMaybeASex()
